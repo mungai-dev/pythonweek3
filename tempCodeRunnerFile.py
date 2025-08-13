@@ -1,0 +1,1 @@
+print(calculate_discount(500,25))
